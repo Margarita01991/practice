@@ -1,0 +1,9 @@
+if (condition)   {
+/// condition -> TRUE
+} else }
+/// condition -> FALSE
+}          
+
+while (condition)   {
+/// condition -> TRUE
+} do }       
